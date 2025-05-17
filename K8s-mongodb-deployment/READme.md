@@ -1,3 +1,3 @@
 # KUBERNETES
-![Screenshot 2025-05-18 003911](https://github.com/user-attachments/assets/36f32d59-e03e-4192-bade-9f8baadcf03b)
-![Screenshot 2025-05-18 003851](https://github.com/user-attachments/assets/89bdff0f-4ef1-4a6b-ad12-f9415e404557)
+![Screenshot 2025-05-18 004533](https://github.com/user-attachments/assets/3992869d-3f3b-45f8-bc3b-ccb5908eaea8)
+![Screenshot 2025-05-18 004551](https://github.com/user-attachments/assets/5d7de3a4-c5c5-4270-af79-2210e83c181b)
